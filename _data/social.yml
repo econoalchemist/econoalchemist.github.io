@@ -7,18 +7,9 @@
 - title: Telegram
   url: https://t.me/econoalchemist
   icon: fab fa-telegram
-- title: Threema
-  url: https://threema.id/AD77XT6V
-  icon: fa fa-commenting
-- title: Matrix
-  url: https://matrix.to/#/@econoalchemist:halogen.city
-  icon: fa fa-commenting-o
 - title: KeyBase
   url: https://keybase.io/econoalchemist
   icon: fa fa-key
-- title: Mastodon
-  url: https://bitcoinhackers.org/@econoalchemist
-  icon: fa fa-keyboard-o
 - title: Instagram
   url: https://www.instagram.com/econoalchemist/
   icon: fab fa-instagram
