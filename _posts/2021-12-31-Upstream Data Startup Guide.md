@@ -8,4 +8,4 @@ author:
   - econoalchemist
 ---
 
-[Upstream Data Home Miner Startup Guide](https://econoalchemist.github.io/UpstreamData-Startup/)
+- [Upstream Data Home Miner Startup Guide](https://econoalchemist.github.io/UpstreamData-Startup/)
