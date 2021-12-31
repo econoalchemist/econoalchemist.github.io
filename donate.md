@@ -8,14 +8,9 @@ permalink: /donate/
 
 If you have a BIP47 compatible wallet like [Samourai Wallet](https://samouraiwallet.com/download), you can use my [PayNym](https://paynym.is/+icysun189) to send me a donation:
 
-<p align="center">
-<img src="/assets/PayNym2_1.png">
-</p>
+![](assets/PayNym2_1.png)
+![](assets/icysun189QRcode1.png) 
 
-<p align="center">
-<img src="/assets/icysun189QRcode1.png"> 
-</p>
- 
 <p align="center">
 Coming soon™
  </p>
