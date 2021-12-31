@@ -1,4 +1,3 @@
-skin: midnight
 title: econoalchemist
 description: A blog focused on Bitcoin self custody & censorship resistance.
 author: econoalchemist
@@ -29,7 +28,7 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter: econoalchemist
+twitter: 
   username: econoalchemist
   card: summary
 logo: logo.png
