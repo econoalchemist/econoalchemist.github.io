@@ -6,19 +6,19 @@
   icon: fab fa-github
 - title: Telegram
   url: https://t.me/econoalchemist
-  icon: fa fa-telegram
+  icon: <i class="fa fa-telegram" aria-hidden="true"></i>
 - title: Threema
   url: https://threema.id/AD77XT6V
-  icon: fa fa-commenting
+  icon: <i class="fa fa-commenting" aria-hidden="true"></i>
 - title: Matrix
   url: https://matrix.to/#/@econoalchemist:halogen.city
-  icon: fa fa-commenting-o
+  icon: <i class="fa fa-commenting-o" aria-hidden="true"></i>
 - title: KeyBase
   url: https://keybase.io/econoalchemist
   icon: fa fa-key
 - title: Mastodon
   url: https://bitcoinhackers.org/@econoalchemist
-  icon: fa fa-keyboard-o
+  icon: <i class="fa fa-keyboard-o" aria-hidden="true"></i>
 - title: Instagram
   url: https://www.instagram.com/econoalchemist/
-  icon: fa fa-instagram
+  icon: <i class="fa fa-instagram" aria-hidden="true"></i>
