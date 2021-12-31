@@ -1,3 +1,9 @@
+---
+layout: page
+title: Bitcoin White Paper
+permalink: /whitepaper/
+---
+
 # The Bitcoin White Paper
 
 ### Here is the full original text: [Bitcoin.pdf](/static/bitcoin.pdf)
