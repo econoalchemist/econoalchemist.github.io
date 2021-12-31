@@ -3,8 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-
-# Contact
+## Beware of scammers & impersonators!
 
 The only companies I am associated with are [Bitcoin Magazine](https://bitcoinmagazine.com/) and [Upstream Data](https://www.upstreamdata.ca/). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer. 
 
