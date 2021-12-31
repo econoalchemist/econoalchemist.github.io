@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Contact
-permalink: /contact/
+title: Donate
+permalink: /donate/
 ---
 
 ## Will write Bitcoin guides for beer ;)
