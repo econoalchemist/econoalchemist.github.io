@@ -19,9 +19,7 @@ My content always has been and always will be free. I don't support advertisers,
 </p>
 
 <p>
- <div style="text-align: justify">
 Full disclosure: I am a contracted contributor with [Bitcoin Magazine](https://bitcoinmagazine.com/), which my time is compensated for. I am also a contracted affiliate with [Upstream Data](https://www.upstreamdata.ca/), which my affiliation is retained.   
- </div>
 </p>
 
 <p>
