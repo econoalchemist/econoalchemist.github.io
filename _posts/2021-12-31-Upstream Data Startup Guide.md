@@ -11,7 +11,7 @@ author:
 # UpstreamData Startup Instructions for Whatsminer M30S & Antminer S19 Pro
 Congratulations on starting your Bitcoin mining journey with Upstream Data! Please take a few minutes to read this guide for helpful tips & tricks to get you started on the right foot. If you have any questions, feel free to reach out in the [Upstream Data Customer Support Telegram channel](https://t.me/OhmmMiningSupport). This guide is meant as reference material for Upstream Data BlackBox Bundle customers who are receiving their ASICs now with an expected delivery of their BlackBox in the near future. You should be getting either a Whatsminer M30S+ or Antminer S19 Pro, those are the only ASICs referenced here. 
 
-![](2021-12-31-assets/TitleImage.png)
+![](/2021-12-31-assets/TitleImage.png)
 
 This guide will cover these topics:
 - Basic electrical requirements
@@ -51,7 +51,7 @@ Observing the 80% rule, to calculate what the circuit should be rated for, multi
 
 Whether you have a Whatsminer or an Antminer, you will want to have a circuit that is rated for at least 20 amps. This means you will want a 240 volt, 20 amp circuit breaker, 20 amp outlets, and 12 gauge cable. Here is an example of some common materials that meet these specifications:
 
-![](2021-12-31-assets/electrical0.jpg)
+![](/2021-12-31-assets/electrical0.jpg)
 
 Let's break down what we see in this picture and why:
 * [Nema 6-20 Outlets](https://www.mcmaster.com/7120K88/), rated for 250 volts, 20 amps, commonly available Nema specification for power cables.
@@ -63,7 +63,7 @@ Let's break down what we see in this picture and why:
 
 For a Whatsminer, you only need one outlet. But for the Antminer, you need two outlets because it has two power supplies. Now don't let this get you all confused, the whole ASIC still only consumes ~14 amps, each power supply is pulling ~7 amps. Also, both outlets can be installed on the same 20 amp circuit like I have demonstrated here:
 
-![](2021-12-31-assets/electrical2.png)
+![](/2021-12-31-assets/electrical2.png)
 
 Your ASIC will most likely not include a power cable, the Whatsminers need a C19 connection and the Antiminers need a C13 connection. If you installed 6-20 outlets then these are the power cables you want:
 
