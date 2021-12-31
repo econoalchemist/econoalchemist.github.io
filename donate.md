@@ -6,13 +6,16 @@ permalink: /contact/
 
 ## Will write Bitcoin guides for beer ;)
 
-If you have a [Cahoots](https://usecahoots.com) compatible wallet like [Samourai Wallet](https://samouraiwallet.com/download) or [Sparrow Wallet](https://www.sparrowwallet.com/download/) you can use my [PayNym](https://paynym.is/+icysun189) to send me a donation:
+If you have a BIP47 compatible wallet like [Samourai Wallet](https://samouraiwallet.com/download), you can use my [PayNym](https://paynym.is/+icysun189) to send me a donation:
 
+<p align="center">
+<img src="/assets/PayNym2_1.png">
+</p>
 
-[![icysun189-avatar](/assets/PayNym2.png)](https://paynym.is/+icysun189 "icysun189")
-
-[![icysun189-QR-code](/assets/icysun189QRcode.png)](https://paynym.is/+icysun189 "icysun189")
-
+<p align="center">
+<img src="/assets/icysun189QRcode1.png"> 
+</p>
+ 
 <p align="center">
 Coming soon™
  </p>
