@@ -1,6 +1,4 @@
-# About
-
-### Welcome to the Econoalchemist blog!
+## Welcome to the Econoalchemist blog!
 
 This blog is focused on bringing you articles about interacting with Bitcoin. The emphasis is on self custody, censorship resistance, mining at home, CoinJoins, and privacy. Overreaching government regulations coupled with invasive chain-analysis have threatened the permission-less state of Bitcoin as well as the rights & privacy of those who use it. I believe that well informed people make good decisions and I aim to share my knowledge, techniques, & perspectives on interacting with Bitcoin in a way that helps maintain it's permissionless properties. I hope that you find some information here thought provoking and that it may prevent you from losing full, unrestricted control over your bitcoin. I am not an expert, but I am an open book.  
 
