@@ -12,8 +12,7 @@ permalink: /whitepaper/
 
 
 ### The Voice Paper
-<div style="text-align: justify">
+
 Alternatively, if you don't want to read the Bitcoin white paper, you can now listen to 159 Bitcoiners, including yours truly, read the Bitcoin white paper aloud in a project by [@dimzayan](https://twitter.com/dimzayan) called the Bitcoin voice paper.
-  </div>
 
 [![Bitcoin Voice Paper](/assets/VoicePaper.png)](https://www.youtube.com/watch?v=7jldYncbU6s "Bitcoin Voice Paper")
