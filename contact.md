@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 toc: true
 title: "Contact Page"
 categories: contact
