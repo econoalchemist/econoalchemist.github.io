@@ -1,8 +1,8 @@
-skin: midnight
+oskin: midnight
 title: econoalchemist
 description: A blog focused on Bitcoin self custody & censorship resistance.
 author: econoalchemist
-avatar: /logo.png
+avatar: /@econoalchemist.png
 email: econoalchemist@protonmail.com
 
 plugins:
@@ -32,7 +32,7 @@ exclude:
 twitter: @econoalchemist
   username: econoalchemist
   card: summary
-logo: logo.png
+logo: @econoalchemist.png
 social:
   name: econoalchemist
   links:
