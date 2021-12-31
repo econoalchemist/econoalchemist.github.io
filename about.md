@@ -17,6 +17,6 @@ In this blog, you will find articles and guides on how to use various Bitcoin wa
 You will not find trading advice, technical charts, or discussions of price action here. I focus on communicating information that can help you secure Bitcoin as an unstoppable medium of exchange and how to use it in a privacy preserving way.
 
 <p align="center">
-<img src="/static/BTB_logo_1.png">
+<img src="/assets/BTB_logo_1.png">
 </p>
 
