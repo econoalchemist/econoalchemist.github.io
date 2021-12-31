@@ -2,8 +2,8 @@
 layout: post
 toc: true
 title: "Upstream Data Home Miner Startup Guide"
-categories: Bitcoin-Home-Mining
-tags: [bitcoin, home mining, startup]
+categories: Bitcoin-home-mining
+tags: [bitcoin, home mining, ASIC, sha256]
 author:
   - econoalchemist
 ---
