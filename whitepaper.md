@@ -5,4 +5,4 @@ Here is the full original text: [Bitcoin.pdf](/static/bitcoin.pdf)
 
 Alternatively, if you don't want to read the Bitcoin white paper, you can now listen to 159 Bitcoiners, including yours truly, read the Bitcoin white paper aloud in a project by [@dimzayan](https://twitter.com/dimzayan) called the Bitcoin voice paper.
 
-{{< youtube id="7jldYncbU6s" width="500" height="300" >}}
+[![Bitcoin Voice Paper](Assets/VoicePaper.png)](https://www.youtube.com/watch?v=7jldYncbU6s "Bitcoin Voice Paper")
