@@ -4,7 +4,7 @@ title: The Hash Cast
 permalink: /hashcast/
 ---
 
-## Welcome to The Hash Cast!
+## A podcast for Bitcoin home miners.
 A short show focused on mining Bitcoin at home. Brought to you every 2,016 blocks at the time of the difficulty adjustment.
 
 This show offers you a chance to catch up on the last ~2 weeks of Bitcoin mining stats, news, developments, home miner setups, and any breaking privacy implications. 
