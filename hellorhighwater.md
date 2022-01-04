@@ -17,7 +17,7 @@ A multi-series amateur podcast about a brother & sister fighting to be reunited 
  </div>
     </p>
     
-Hell or High Water episodes are hosted on a federated instance of [PeerTube](https://peertube.stream/) called "Sub Station BTB". The links below will take you to [media.econoalchemist.com](https://media.econoalchemist.com/) where the videos are hosted.
+Hell or High Water episodes are hosted on a federated instance of [PeerTube](https://peertube.stream/) called "Sub Station BTB". The links below will take you to [media.econoalchemist.com](https://media.econoalchemist.com/) where the recordings are hosted.
 
 ### [Episode 01 - Yo Mama](https://media.econoalchemist.com/w/mvu63HoD2UW2tsRm6Sia8N)
 In this episode, Nathan recounts his experience as a child taking care of his two younger siblings and their mother in the throes of her alcoholism.
