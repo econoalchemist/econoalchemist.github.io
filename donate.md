@@ -5,8 +5,8 @@ permalink: /donate/
 ---
 
 ## Thank you for your support :)
-This link will direct you to the payment server "donate.econoalchemist.com". Powered by [CyperPunkPay](https://cypherpunkpay.org/).
-[![Bitcoin](/assets/Bitcoin2.png)](https://donate.econoalchemist.com/ "Bitcoin")
+Click the Bitcoin logo below and it will direct you to the payment server "donate.econoalchemist.com". Powered by [CyperPunkPay](https://cypherpunkpay.org/).
+[![Bitcoin](/assets/Bitcoin3.png)](https://donate.econoalchemist.com/ "Bitcoin")
 
 Or if you have a BIP47 compatible wallet like [Samourai Wallet](https://samouraiwallet.com/download), you can use my [PayNym](https://paynym.is/+icysun189) to send me a donation:
 
