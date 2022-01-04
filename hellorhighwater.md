@@ -17,3 +17,35 @@ A multi-series amateur podcast about a brother & sister fighting to be reunited 
  </div>
     </p>
     
+Hell or High Water episodes are hosted on a federated instance of [PeerTube](https://peertube.stream/) called "Sub Station BTB". The links below will take you to [media.econoalchemist.com](https://media.econoalchemist.com/) where the videos are hosted.
+
+### [Episode 01 - Yo Mama](https://media.econoalchemist.com/w/mvu63HoD2UW2tsRm6Sia8N)
+In this episode, Nathan recounts his experience as a child taking care of his two younger siblings and their mother in the throes of her alcoholism.
+
+### [Episode 02 - The Trials](https://media.econoalchemist.com/w/r4NDoDiydoN5RpXN13GGxT)
+In this episode, Nathan recounts the 3-Strikes law and the charges he received starting at age 16.
+
+### [Episode 03 - The Last Arrest](https://media.econoalchemist.com/w/9NXTKNGWdMUfUtfpRnzSA4)
+In this episode, Nathan tells us about the day he was arrested for the last time. We reached out to the victim and she was gracious enough to share her side of the story with us even though 20 years has passed. 
+
+### [Episode 04 - The First Day](https://media.econoalchemist.com/w/pZBJu3KZH1WiFei3knQh9b)
+In this episode, Nathan tells us about his first day in prison at age 17.
+
+### [Episode 05 - Solitary part 1](https://media.econoalchemist.com/w/n2KWgxA31nK2VJU69yqXG3)
+In this episode, Allysa encourages Nathan to talk about an incident that resulted in Nathan spending 10 years of his sentence in solitary confinement. 
+
+### [Episode 06 - Solitary part 2](https://media.econoalchemist.com/w/gqh1vRreoXXrZuiV8WNbX1)
+In this episode, Nathan continues telling the story of his 10 years in solitary confinement.
+
+### [Episode 07 - Solitary part 3](https://media.econoalchemist.com/w/j914Uyh8YE7MeKDqha83Xa)
+In this episode, Nathan picks up where we left off before the pandemic, telling us about how he remained sane and survived more than 10 years in solitary confinement. 
+
+### [Episode 08 - Out of Solitary into a Gang](https://media.econoalchemist.com/w/2tk16MgUq8m9PzLgFjfrod)
+In this episode, Nathan talks about going from solitary confinement back into general population and into a prison gang. 
+
+### [Episode 09 - Coming Out of the Gang](https://media.econoalchemist.com/w/tmq3tMbN16awRe2ZmZT3B8)
+In this episode, Nathan talks about his involvement with the prison gangs, what the day-to-day is like, and how he started to develop into a leader. 
+
+### [Episode 10 - No Way Out](https://media.econoalchemist.com/w/vPdQsKpFTxZzLSX1SZZ2Zg)
+In this episode, Nathan talks about his involvement with the prison gangs, what the day-to-day is like, and how he started to develop into a leader. 
+
