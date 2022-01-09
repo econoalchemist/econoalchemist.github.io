@@ -8,4 +8,6 @@ author:
   - econoalchemist
 ---
 
-## [COLDCARD Advanced Guide](https://econoalchemist.github.io/COLDCARD-Paranoid/)
+## Web Guide: [COLDCARD Advanced Guide](https://econoalchemist.github.io/COLDCARD-Paranoid/)
+
+### GitHub Repo: [COLDCARD Advanced Guide](https://github.com/econoalchemist/COLDCARD-Paranoid)
