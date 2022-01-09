@@ -8,4 +8,6 @@ author:
   - econoalchemist
 ---
 
-## [COLDCARD Intermediate Guide](https://econoalchemist.github.io/COLDCARD-MiddleGround/)
+## Web Guide: [COLDCARD Intermediate Guide](https://econoalchemist.github.io/COLDCARD-MiddleGround/)
+
+### GitHub Repo: [COLDCARD Intermediate Guide](https://github.com/econoalchemist/COLDCARD-MiddleGround)
