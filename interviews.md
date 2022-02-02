@@ -67,7 +67,7 @@ By Blue Collar Plebcast October 17, 2021
 ## [Compass Home Mining Panel](https://youtu.be/vBzaXLvgSwo)
 Compass Mining Panel Discussion with [@BitcoinCoderBob](https://twitter.com/BitcoinCoderBob), [@missaghi](https://twitter.com/missaghi), [@BITCOIN_RAIL](https://twitter.com/BITCOIN_RAIL), [@CaliInKansas](https://twitter.com/CaliInKansas), & [@econoalchemist](https://twitter.com/econoalchemist)
 
-By Compass Mining:  [@zackvoell](https://twitter.com/zackvoell) & [@wsfoxley](https://twitter.com/wsfoxley) October 6, 2021
+By [@zackvoell](https://twitter.com/zackvoell) & [@wsfoxley](https://twitter.com/wsfoxley) of [Compass Mining](https://compassmining.io/) October 6, 2021
 
 - Solutions to home mining obstacles
 
