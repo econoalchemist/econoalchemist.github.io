@@ -69,7 +69,7 @@ Compass Mining Panel Discussion with [@BitcoinCoderBob](https://twitter.com/Bitc
 
 By Compass Mining:  [@zackvoell](https://twitter.com/zackvoell) & [@wsfoxley](https://twitter.com/wsfoxley) October 6, 2021
 
--Solutions to home mining obstacles
+- Solutions to home mining obstacles
 
 <p align="center">
   <img width="300" src="assets/compass.jpg">
@@ -81,13 +81,29 @@ Bitcoin Home Mining Overview with [@econoalchemist](https://twitter.com/econoalc
 
 By The Human Rights Foundation during the Bitcoin Academy in Miami, FL USA October 5, 2021
 
--False Narratives
--Why is mining at home sensible
--What is an ASIC
--How to buy an ASIC
--Infrastructure requirements
--Connecting to a mining pool
+- False Narratives
+- Why is mining at home sensible
+- What is an ASIC
+- How to buy an ASIC
+- Infrastructure requirements
+- Connecting to a mining pool
 
 <p align="center">
-  <img width="300" src="assets/OsloLogo.png">
+  <img width="400" src="assets/OsloLogo.png">
 </p>
+
+## [Citadel Dispatch e0.3.1](https://bitcointv.com/w/fnCudFVejsMjZQUGRq72eU)
+Getting Started with Bitcoin Mining with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC) [@RoninMiner](https://twitter.com/RoninMiner) & [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [Matt Odell](https://twitter.com/ODELL)
+
+- Sourcing an ASIC
+- Infrastructure; Electrical, Noise, & Ventilation
+- Hosted Mining
+- non-KYC Dollar Cost Averaging through the utility bill
+
+<p align="center">
+  <img width="300" src="assets/@CitadelDispatch.png">
+</p>
+
+
