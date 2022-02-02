@@ -272,3 +272,18 @@ By [@Ragnarly](https://twitter.com/Ragnarly)
 <p align="center">
   <img width="300" src="assets/BAB2021.jpg">
 </p>
+
+## [Bit-Buy-Bit EP61](https://www.bit-buy-bit.com/podcast-1/episode/30354936/ep61-bitcoin-podcast-with-econoalchemis)
+A Bitcoin Podcast with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@MaxBitBuyBit](https://twitter.com/MaxBitBuyBit)
+- how Econo found bitcoin
+- what has pushed him to make such comprehensive and helpful guides
+- cold storage 
+- multisig
+- self custody
+- the importance of no KYC
+
+<p align="center">
+  <img width="300" src="assets/BitBuyBit.png">
+</p>
