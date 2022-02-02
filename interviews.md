@@ -171,3 +171,31 @@ By Christopher Carrion May 7, 2021
 <p align="center">
   <img width="300" src="assets/cahoots-camp.png">
 </p>
+
+
+## [TotalBitcoin #171: Sparrow Wallet Tutorial for Bitcoin Beginners](https://youtu.be/e_vbPsNdpd0)
+Introduction to [Sparrow Wallet](https://www.sparrowwallet.com/) with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@keyvandavani](https://twitter.com/keyvandavani) April 24, 2021
+
+- Basic set up for Sparrow Wallet
+- How to secure your seed phrase
+- How to receive & send bitcoin
+
+<p align="center">
+  <img width="300" src="assets/keyvandavani.jpg">
+</p>
+
+## [CitizenHush: Bitcoin, Liberty, & Financial Tyranny](https://youtu.be/tTZCOdMkGKU)
+Radical Responsibility with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@citizenhush](https://twitter.com/citizenhush) April 20, 2021
+
+- Bitcoin basics
+- Parallels between gun ownership & Bitcoin self-custody
+- KYC vs. non-KYC
+
+<p align="center">
+  <img width="300" src="assets/CitizenHush.jpg">
+</p>
+
