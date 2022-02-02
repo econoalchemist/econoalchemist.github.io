@@ -16,7 +16,7 @@ By Guns N' Bitcoin November 23, 2021
 [Listen here](https://gunsnbitcoin.substack.com/p/32-econoalchemist-twitter-spaces).
 
 <p align="center">
-  <img src="assets/BANB2022.jpg">
+  <img width="400" src="assets/BANB2022.jpeg">
 </p>
 
 ## Blue Collar Plebcast: 
