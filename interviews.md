@@ -37,7 +37,7 @@ By Texas Slim December 29, 2021
   <img width="300" src="assets/TexasSlim.png">
 </p>
 
-## [Guns N' Bitcoin](https://gunsnbitcoin.substack.com/p/32-econoalchemist-twitter-spaces)
+## [Guns N' Bitcoin Twitter Space Discussion](https://gunsnbitcoin.substack.com/p/32-econoalchemist-twitter-spaces)
 Twitter Spaces with [@Ragnarly](https://twitter.com/Ragnarly) & [@econoalchemist](https://twitter.com/econoalchemist)
 
 By Guns N' Bitcoin November 23, 2021
@@ -51,7 +51,7 @@ By Guns N' Bitcoin November 23, 2021
   <img width="300" src="assets/BANB2022.jpeg">
 </p>
 
-## [Blue Collar Plebcast Season 1, Episode 19](https://open.spotify.com/episode/3scPhrHu696lpaVOOngkLZ?si=P9xA6q53TPCpFvp2wepo9w&utm_source=copy-link&nd=1) 
+## [Blue Collar Plebcast: Season 1, Episode 19](https://open.spotify.com/episode/3scPhrHu696lpaVOOngkLZ?si=P9xA6q53TPCpFvp2wepo9w&utm_source=copy-link&nd=1) 
 Bitcoin Home Mining with [@BITCOIN_RAIL](https://twitter.com/BITCOIN_RAIL), [@RoninMiner](https://twitter.com/RoninMiner), [@lc_hodl2](https://twitter.com/lc_hodl2), & [@econoalchemist](https://twitter.com/econoalchemist)
 
 By Blue Collar Plebcast October 17, 2021
@@ -226,7 +226,7 @@ By [@keyvandavani](https://twitter.com/keyvandavani) March 20, 2021
   <img width="300" src="assets/keyvandavani.jpg">
 </p>
 
-## [My Bitcoin Story #07: Econoalchemist on Mining Non-KYC Bitcoin at your homes](https://youtu.be/7Sr1fY5sHho)
+## [My Bitcoin Story #07: Mining Non-KYC Bitcoin at your homes](https://youtu.be/7Sr1fY5sHho)
 Bitcoin Home Mining with [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@dearezkitha](https://twitter.com/dearezkitha) March 14, 2021
@@ -241,4 +241,34 @@ By [@dearezkitha](https://twitter.com/dearezkitha) March 14, 2021
 
 <p align="center">
   <img width="300" src="assets/mybitcoinstory.jpg">
+</p>
+
+
+## [Citadel Dispatch e0.1.0](https://bitcointv.com/w/jDioZHXHfuW7heZ5chRVbm)
+Bitcoin Self Custody, Security, and Privacy with [@craigraw](https://twitter.com/craigraw) & [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@ODELL](https://twitter.com/ODELL) July 20, 2021
+
+- Bitcoin Wallets
+- Self Custody
+- #GretasFury
+- Mining at home
+
+<p align="center">
+  <img width="300" src="assets/@CitadelDispatch.png">
+</p>
+
+## [Guns N' Bitcoin Newsletter: Silent Auction & Loud Bitcoin Mining at Home](https://gunsnbitcoin.substack.com/p/silent-auction-and-loud-bitcoin-mining)
+A written interview with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@Ragnarly](https://twitter.com/Ragnarly)
+
+- self-custody
+- censorship resistance
+- privacy. His guide
+- Home mining for non-KYC Bitcoin
+- presenting it at Bear Arms N’ Bitcoin 2021
+
+<p align="center">
+  <img width="300" src="assets/BAB2021.jpg">
 </p>
