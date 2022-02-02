@@ -133,7 +133,7 @@ By Christopher Carrion May 21, 2021
 </p>
 
 ## [TotalBitcoin #176: Bisq Tutorial for Bitcoin Beginners](https://youtu.be/6FMsIUkFdkg)
-Introduction to Bisq with [@econoalchemist](https://twitter.com/econoalchemist)
+Introduction to [Bisq](https://bisq.network/) with [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@keyvandavani](https://twitter.com/keyvandavani) May 22, 2021
 
@@ -196,6 +196,49 @@ By [@citizenhush](https://twitter.com/citizenhush) April 20, 2021
 - KYC vs. non-KYC
 
 <p align="center">
-  <img width="300" src="assets/CitizenHush.jpg">
+  <img width="300" src="assets/CitizenHush1.jpg">
 </p>
 
+## [TotalBitcoin #164: BlueWallet Tutorial for Bitcoin Beginners](https://youtu.be/yG6oWolRSBM)
+Introduction to [Blue Wallet](https://bluewallet.io/) with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@keyvandavani](https://twitter.com/keyvandavani) March 27, 2021
+
+- Basic set up for Blue Wallet
+- How to secure your seed phrase
+- How to receive & send bitcoin
+
+<p align="center">
+  <img width="300" src="assets/keyvandavani.jpg">
+</p>
+
+## [TotalBitcoin #161: Samourai Wallet Tutorial for Bitcoin Beginners](https://www.youtube.com/watch?v=6_dJMYetB_g)
+Introduction to [Samourai Wallet](https://samouraiwallet.com/) with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@keyvandavani](https://twitter.com/keyvandavani) March 20, 2021
+
+- The importance of self-custody & the dangers of KYC
+- Basic set up for Samourai Wallet
+- How to secure your seed phrase
+- How to receive & send bitcoin
+
+<p align="center">
+  <img width="300" src="assets/keyvandavani.jpg">
+</p>
+
+## [My Bitcoin Story #07: Econoalchemist on Mining Non-KYC Bitcoin at your homes](https://youtu.be/7Sr1fY5sHho)
+Bitcoin Home Mining with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@dearezkitha](https://twitter.com/dearezkitha) March 14, 2021
+
+- self custody
+- censorship resistance 
+- CoinJoins
+- privacy
+- how to mine non-KYC Bitcoin at home 
+- the danger of KYC
+- tips about mining bitcoin for noobs
+
+<p align="center">
+  <img width="300" src="assets/mybitcoinstory.jpg">
+</p>
