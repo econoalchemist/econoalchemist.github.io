@@ -18,7 +18,7 @@ By the Gold Silver Bitcoin Show January 4, 2022
 - Home Mining
 
 <p align="center">
-  <img width="300" src="assets/goldsilverbitcoin.jpg">
+  <img width="300" src="/assets/goldsilverbitcoin.jpg">
 </p>
 
 ## [Texas Slim's Vision](https://open.spotify.com/episode/3hyBJ7c5pROwED6FhUy53x?si=2VfqT2_QQfyTwwXjsATOxQ&utm_source=copy-link&nd=1)
@@ -34,7 +34,7 @@ By Texas Slim December 29, 2021
 - The BeefInitiative and FoodIntelligence
 
 <p align="center">
-  <img width="300" src="assets/TexasSlim.png">
+  <img width="300" src="/assets/TexasSlim.png">
 </p>
 
 ## [Guns N' Bitcoin Twitter Space Discussion](https://gunsnbitcoin.substack.com/p/32-econoalchemist-twitter-spaces)
@@ -48,7 +48,7 @@ By Guns N' Bitcoin November 23, 2021
 
 
 <p align="center">
-  <img width="300" src="assets/BANB2022.jpeg">
+  <img width="300" src="/assets/BANB2022.jpeg">
 </p>
 
 ## [Blue Collar Plebcast: Season 1, Episode 19](https://open.spotify.com/episode/3scPhrHu696lpaVOOngkLZ?si=P9xA6q53TPCpFvp2wepo9w&utm_source=copy-link&nd=1) 
@@ -61,7 +61,7 @@ By Blue Collar Plebcast October 17, 2021
 - We also talk work, family, inflation and more
 
 <p align="center">
-  <img width="300" src="assets/BlueCollarPlebCast.png">
+  <img width="300" src="/assets/BlueCollarPlebCast.png">
 </p>
 
 ## [Compass Home Mining Panel](https://youtu.be/vBzaXLvgSwo)
@@ -72,7 +72,7 @@ By [@zackvoell](https://twitter.com/zackvoell) & [@wsfoxley](https://twitter.com
 - Solutions to home mining obstacles
 
 <p align="center">
-  <img width="300" src="assets/compass.jpg">
+  <img width="300" src="/assets/compass.jpg">
 </p>
 
 
@@ -89,7 +89,7 @@ By [@HFR](https://twitter.com/HRF) during the Bitcoin Academy in Miami, FL USA O
 - Connecting to a mining pool
 
 <p align="center">
-  <img width="400" src="assets/OsloLogo.png">
+  <img width="400" src="/assets/OsloLogo.png">
 </p>
 
 ## [Citadel Dispatch e0.3.1](https://bitcointv.com/w/fnCudFVejsMjZQUGRq72eU)
@@ -103,7 +103,7 @@ By [@ODELL](https://twitter.com/ODELL) July 20, 2021
 - non-KYC Dollar Cost Averaging through the utility bill
 
 <p align="center">
-  <img width="300" src="assets/@CitadelDispatch.png">
+  <img width="300" src="/assets/@CitadelDispatch.png">
 </p>
 
 ## [DirtCoin Diaries #7: Slingin' Hash](https://meetup.bitcoinenemies.com/@dirtcoin/slingin-hash)
@@ -116,7 +116,7 @@ By Christopher Carrion May 21, 2021
 - Mitigating heat & noise
 
 <p align="center">
-  <img width="300" src="assets/slingin-hash.png">
+  <img width="300" src="/assets/slingin-hash.png">
 </p>
 
 ## [DirtCoin Diaries #7: After Hours](https://meetup.bitcoinenemies.com/@dirtcoin/slingin-hash-afterhours)
@@ -129,7 +129,7 @@ By Christopher Carrion May 21, 2021
 - Open discussion
 
 <p align="center">
-  <img width="300" src="assets/slingin-hash.png">
+  <img width="300" src="/assets/slingin-hash.png">
 </p>
 
 ## [TotalBitcoin #176: Bisq Tutorial for Bitcoin Beginners](https://youtu.be/6FMsIUkFdkg)
@@ -143,7 +143,7 @@ By [@keyvandavani](https://twitter.com/keyvandavani) May 22, 2021
 - How to place a trade
 
 <p align="center">
-  <img width="300" src="assets/keyvandavani.jpg">
+  <img width="300" src="/assets/keyvandavani.jpg">
 </p>
 
 
@@ -157,7 +157,7 @@ By Christopher Carrion May 7, 2021
 - Why is privacy important?
 
 <p align="center">
-  <img width="300" src="assets/cahoots-camp.png">
+  <img width="300" src="/assets/cahoots-camp.png">
 </p>
  
 ## [DirtCoin Diaries #6: After Hours](https://meetup.bitcoinenemies.com/@dirtcoin/cahoots-camp-afterhours)
@@ -169,7 +169,7 @@ By Christopher Carrion May 7, 2021
 - Open discussion.
 
 <p align="center">
-  <img width="300" src="assets/cahoots-camp.png">
+  <img width="300" src="/assets/cahoots-camp.png">
 </p>
 
 
@@ -183,7 +183,7 @@ By [@keyvandavani](https://twitter.com/keyvandavani) April 24, 2021
 - How to receive & send bitcoin
 
 <p align="center">
-  <img width="300" src="assets/keyvandavani.jpg">
+  <img width="300" src="/assets/keyvandavani.jpg">
 </p>
 
 ## [CitizenHush: Bitcoin, Liberty, & Financial Tyranny](https://youtu.be/tTZCOdMkGKU)
@@ -196,7 +196,7 @@ By [@citizenhush](https://twitter.com/citizenhush) April 20, 2021
 - KYC vs. non-KYC
 
 <p align="center">
-  <img width="300" src="assets/CitizenHush1.jpg">
+  <img width="300" src="/assets/CitizenHush1.jpg">
 </p>
 
 ## [TotalBitcoin #164: BlueWallet Tutorial for Bitcoin Beginners](https://youtu.be/yG6oWolRSBM)
@@ -209,7 +209,7 @@ By [@keyvandavani](https://twitter.com/keyvandavani) March 27, 2021
 - How to receive & send bitcoin
 
 <p align="center">
-  <img width="300" src="assets/keyvandavani.jpg">
+  <img width="300" src="/assets/keyvandavani.jpg">
 </p>
 
 ## [TotalBitcoin #161: Samourai Wallet Tutorial for Bitcoin Beginners](https://www.youtube.com/watch?v=6_dJMYetB_g)
@@ -223,7 +223,7 @@ By [@keyvandavani](https://twitter.com/keyvandavani) March 20, 2021
 - How to receive & send bitcoin
 
 <p align="center">
-  <img width="300" src="assets/keyvandavani.jpg">
+  <img width="300" src="/assets/keyvandavani.jpg">
 </p>
 
 ## [My Bitcoin Story #07: Mining Non-KYC Bitcoin at your homes](https://youtu.be/7Sr1fY5sHho)
@@ -240,7 +240,7 @@ By [@dearezkitha](https://twitter.com/dearezkitha) March 14, 2021
 - Tips about mining bitcoin for noobs
 
 <p align="center">
-  <img width="300" src="assets/mybitcoinstory.jpg">
+  <img width="300" src="/assets/mybitcoinstory.jpg">
 </p>
 
 
@@ -255,7 +255,7 @@ By [@ODELL](https://twitter.com/ODELL) February 23, 2021
 - Mining at home
 
 <p align="center">
-  <img width="300" src="assets/@CitadelDispatch.png">
+  <img width="300" src="/assets/@CitadelDispatch.png">
 </p>
 
 ## [Guns N' Bitcoin Newsletter: Silent Auction & Loud Bitcoin Mining at Home](https://gunsnbitcoin.substack.com/p/silent-auction-and-loud-bitcoin-mining)
@@ -270,7 +270,7 @@ By [@Ragnarly](https://twitter.com/Ragnarly) February 16, 2021
 - Presenting it at Bear Arms N’ Bitcoin 2021
 
 <p align="center">
-  <img width="300" src="assets/BAB2021.jpg">
+  <img width="300" src="/assets/BAB2021.jpg">
 </p>
 
 ## [Bit-Buy-Bit EP61](https://www.bit-buy-bit.com/podcast-1/episode/30354936/ep61-bitcoin-podcast-with-econoalchemis)
@@ -285,7 +285,7 @@ By [@MaxBitBuyBit](https://twitter.com/MaxBitBuyBit)
 - The importance of no KYC
 
 <p align="center">
-  <img width="300" src="assets/BitBuyBit.png">
+  <img width="300" src="/assets/BitBuyBit.png">
 </p>
 
 ## [The Bitcoin Path #8: Burn the Bridge With Self Custody](https://youtu.be/WwqfCO7HMgQ)
@@ -300,7 +300,7 @@ By [@jonchenot](https://twitter.com/jonchenot) December 18, 2020
 - I also ask about some recommendations he would have for someone moving to a mobile lifestyle to secure their bitcoin
 
 <p align="center">
-  <img width="300" src="assets/JChenot.jpg">
+  <img width="300" src="/assets/JChenot.jpg">
 </p>
 
 ## [TotalBitcoin #133: Fiat Money has been a Catastrophic Experiment, Bitcoin is Monetary Evolution](https://www.youtube.com/watch?v=fmBxwrC0TOs)
@@ -317,5 +317,5 @@ By [@keyvandavani](https://twitter.com/keyvandavani) November 12, 2020
 - Monetary Evolution and Mass Adoption of Bitcoin
 
 <p align="center">
-  <img width="300" src="assets/keyvandavani.jpg">
+  <img width="300" src="/assets/keyvandavani.jpg">
 </p>
