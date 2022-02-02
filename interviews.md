@@ -231,13 +231,13 @@ Bitcoin Home Mining with [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@dearezkitha](https://twitter.com/dearezkitha) March 14, 2021
 
-- self custody
-- censorship resistance 
+- Self custody
+- Censorship resistance 
 - CoinJoins
-- privacy
-- how to mine non-KYC Bitcoin at home 
-- the danger of KYC
-- tips about mining bitcoin for noobs
+- Privacy
+- How to mine non-KYC Bitcoin at home 
+- The danger of KYC
+- Tips about mining bitcoin for noobs
 
 <p align="center">
   <img width="300" src="assets/mybitcoinstory.jpg">
@@ -247,7 +247,7 @@ By [@dearezkitha](https://twitter.com/dearezkitha) March 14, 2021
 ## [Citadel Dispatch e0.1.0](https://bitcointv.com/w/jDioZHXHfuW7heZ5chRVbm)
 Bitcoin Self Custody, Security, and Privacy with [@craigraw](https://twitter.com/craigraw) & [@econoalchemist](https://twitter.com/econoalchemist)
 
-By [@ODELL](https://twitter.com/ODELL) July 20, 2021
+By [@ODELL](https://twitter.com/ODELL) February 23, 2021
 
 - Bitcoin Wallets
 - Self Custody
@@ -261,13 +261,13 @@ By [@ODELL](https://twitter.com/ODELL) July 20, 2021
 ## [Guns N' Bitcoin Newsletter: Silent Auction & Loud Bitcoin Mining at Home](https://gunsnbitcoin.substack.com/p/silent-auction-and-loud-bitcoin-mining)
 A written interview with [@econoalchemist](https://twitter.com/econoalchemist)
 
-By [@Ragnarly](https://twitter.com/Ragnarly)
+By [@Ragnarly](https://twitter.com/Ragnarly) February 16, 2021
 
-- self-custody
-- censorship resistance
-- privacy. His guide
+- Self-custody
+- Censorship resistance
+- Privacy. His guide
 - Home mining for non-KYC Bitcoin
-- presenting it at Bear Arms N’ Bitcoin 2021
+- Presenting it at Bear Arms N’ Bitcoin 2021
 
 <p align="center">
   <img width="300" src="assets/BAB2021.jpg">
@@ -277,13 +277,45 @@ By [@Ragnarly](https://twitter.com/Ragnarly)
 A Bitcoin Podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@MaxBitBuyBit](https://twitter.com/MaxBitBuyBit)
-- how Econo found bitcoin
-- what has pushed him to make such comprehensive and helpful guides
-- cold storage 
-- multisig
-- self custody
-- the importance of no KYC
+- How he found bitcoin
+- What has pushed him to make such comprehensive and helpful guides
+- Cold storage 
+- Multisig
+- Self custody
+- The importance of no KYC
 
 <p align="center">
   <img width="300" src="assets/BitBuyBit.png">
+</p>
+
+## [The Bitcoin Path #8: Burn the Bridge With Self Custody](https://youtu.be/WwqfCO7HMgQ)
+Bitcoin self-custody with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@jonchenot](https://twitter.com/jonchenot) December 18, 2020
+
+- What inspired him to focus so much on bitcoin self-custody and censorship resistance
+- What he thinks about coin-joining KYC (Know Your Customer) bitcoin
+- Why he is an avid user and proponent of samurai wallet
+- Outlining the process of self custody for a new-coiner
+- I also ask about some recommendations he would have for someone moving to a mobile lifestyle to secure their bitcoin
+
+<p align="center">
+  <img width="300" src="assets/JChenot.jpg">
+</p>
+
+## [TotalBitcoin #133: Fiat Money has been a Catastrophic Experiment, Bitcoin is Monetary Evolution](https://www.youtube.com/watch?v=fmBxwrC0TOs)
+Talking Bitcoin with [@bezantdenier](https://twitter.com/bezantdenier), [@metamick14](https://twitter.com/metamick14), & [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@keyvandavani](https://twitter.com/keyvandavani) November 12, 2020
+
+- History of repeatedly failed and catastrophic Fiat
+- Money-Experiment
+- Criminality of Central Banks
+- Self-Custody, Privacy & Censorship Resistance
+- KYC, Exchanges & Custodial Institutions
+- Bitcoin is Black Market Money -CBDCs / full blown tyranny & surveillance
+- Monetary Evolution and Mass Adoption of Bitcoin
+
+<p align="center">
+  <img width="300" src="assets/keyvandavani.jpg">
 </p>
