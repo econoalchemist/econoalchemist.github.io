@@ -95,7 +95,7 @@ By The Human Rights Foundation during the Bitcoin Academy in Miami, FL USA Octob
 ## [Citadel Dispatch e0.3.1](https://bitcointv.com/w/fnCudFVejsMjZQUGRq72eU)
 Getting Started with Bitcoin Mining with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC) [@RoninMiner](https://twitter.com/RoninMiner) & [@econoalchemist](https://twitter.com/econoalchemist)
 
-By [Matt Odell](https://twitter.com/ODELL)
+By [Matt Odell](https://twitter.com/ODELL) July 20, 2021
 
 - Sourcing an ASIC
 - Infrastructure; Electrical, Noise, & Ventilation
@@ -104,6 +104,32 @@ By [Matt Odell](https://twitter.com/ODELL)
 
 <p align="center">
   <img width="300" src="assets/@CitadelDispatch.png">
+</p>
+
+## [DirtCoin Diaries #7: Slingin' Hash](https://meetup.bitcoinenemies.com/@dirtcoin/slingin-hash)
+Bitcoin Home Mining with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC) & [@econoalchemist](https://twitter.com/econoalchemist)
+
+By Christopher Carrion May 21, 2021
+
+- How to mine bitcoin at home
+- What to avoid
+- Mitigating heat & noise
+
+<p align="center">
+  <img width="300" src="assets/slingin-hash.png">
+</p>
+
+## [DirtCoin Diaries #7: After Hours](https://meetup.bitcoinenemies.com/@dirtcoin/slingin-hash-afterhours)
+Bitcoin Home Mining discussion continued with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC) & [@econoalchemist](https://twitter.com/econoalchemist)
+
+By Christopher Carrion May 21, 2021
+
+- Diverter_NoKYC & Econoalchemist tag team
+- Audience participation
+- Open discussion
+
+<p align="center">
+  <img width="300" src="assets/slingin-hash.png">
 </p>
 
 
