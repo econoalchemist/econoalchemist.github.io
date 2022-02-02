@@ -6,6 +6,21 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Gold Silver Bitcoin #46](https://www.youtube.com/watch?v=NmD6Tjg4fAA)
+Bitcoin without bridges to the legacy system with [@GldSlvBtc](https://twitter.com/GldSlvBtc) and [@Econoalchemist](https://twitter.com/econoalchemist)
+
+By the Gold Silver Bitcoin Show January 4, 2022
+
+- Bitcoin as a stand alone financial system
+- Issues with the legacy system
+- Self-custody
+- Dangers of KYC
+- Home Mining
+
+<p align="center">
+  <img width="400" src="assets/goldsilverbitcoin.jpg">
+</p>
+
 ## [Texas Slim's Vision](https://open.spotify.com/episode/3hyBJ7c5pROwED6FhUy53x?si=2VfqT2_QQfyTwwXjsATOxQ&utm_source=copy-link&nd=1)
 Home Mining and Self-Custody with [@modernTman](https://twitter.com/modernTman) and [@Econoalchemist](https://twitter.com/econoalchemist)
 
