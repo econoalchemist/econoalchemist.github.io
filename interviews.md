@@ -79,7 +79,7 @@ By Compass Mining:  [@zackvoell](https://twitter.com/zackvoell) & [@wsfoxley](ht
 ## [Oslo Freedom Forum Presentation](https://youtu.be/41w_5K8iYpA)
 Bitcoin Home Mining Overview with [@econoalchemist](https://twitter.com/econoalchemist)
 
-By The Human Rights Foundation during the Bitcoin Academy in Miami, FL USA October 5, 2021
+By [@HFR](https://twitter.com/HRF) during the Bitcoin Academy in Miami, FL USA October 5, 2021
 
 - False Narratives
 - Why is mining at home sensible
@@ -95,7 +95,7 @@ By The Human Rights Foundation during the Bitcoin Academy in Miami, FL USA Octob
 ## [Citadel Dispatch e0.3.1](https://bitcointv.com/w/fnCudFVejsMjZQUGRq72eU)
 Getting Started with Bitcoin Mining with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC) [@RoninMiner](https://twitter.com/RoninMiner) & [@econoalchemist](https://twitter.com/econoalchemist)
 
-By [Matt Odell](https://twitter.com/ODELL) July 20, 2021
+By [@ODELL](https://twitter.com/ODELL) July 20, 2021
 
 - Sourcing an ASIC
 - Infrastructure; Electrical, Noise, & Ventilation
@@ -132,4 +132,42 @@ By Christopher Carrion May 21, 2021
   <img width="300" src="assets/slingin-hash.png">
 </p>
 
+## [TotalBitcoin #176: Bisq Tutorial for Bitcoin Beginners](https://youtu.be/6FMsIUkFdkg)
+Introduction to Bisq with [@econoalchemist](https://twitter.com/econoalchemist)
 
+By [@keyvandavani](https://twitter.com/keyvandavani) May 22, 2021
+
+- Buying mom-KYC bitcoin at an ATM
+- Basic set up for Bisq
+- How to secure your seed phrase
+- How to place a trade
+
+<p align="center">
+  <img width="300" src="assets/keyvandavani.jpg">
+</p>
+
+
+## [DirtCoin Diaries #6: Cahoots Camp](https://meetup.bitcoinenemies.com/@dirtcoin/cahoots-camp)
+Collaborative transactions with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By Christopher Carrion May 7, 2021
+
+- How to spend bitcoin more privately.
+- What are Cahoots Stowaway, Stonewall, & StonewallX2.
+- Why is privacy important?
+
+<p align="center">
+  <img width="300" src="assets/cahoots-camp.png">
+</p>
+ 
+## [DirtCoin Diaries #6: After Hours](https://meetup.bitcoinenemies.com/@dirtcoin/cahoots-camp-afterhours)
+The discussion on collaborative transactions continues with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By Christopher Carrion May 7, 2021
+
+- Audience participation.
+- Open discussion.
+
+<p align="center">
+  <img width="300" src="assets/cahoots-camp.png">
+</p>
