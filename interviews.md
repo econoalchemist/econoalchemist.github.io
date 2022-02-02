@@ -51,7 +51,7 @@ By Guns N' Bitcoin November 23, 2021
   <img width="300" src="assets/BANB2022.jpeg">
 </p>
 
-## [Blue Collar Plebcast](https://open.spotify.com/episode/3scPhrHu696lpaVOOngkLZ?si=P9xA6q53TPCpFvp2wepo9w&utm_source=copy-link&nd=1) 
+## [Blue Collar Plebcast Season 1, Episode 19](https://open.spotify.com/episode/3scPhrHu696lpaVOOngkLZ?si=P9xA6q53TPCpFvp2wepo9w&utm_source=copy-link&nd=1) 
 Bitcoin Home Mining with [@BITCOIN_RAIL](https://twitter.com/BITCOIN_RAIL), [@RoninMiner](https://twitter.com/RoninMiner), [@lc_hodl2](https://twitter.com/lc_hodl2), & [@econoalchemist](https://twitter.com/econoalchemist)
 
 By Blue Collar Plebcast October 17, 2021
@@ -66,9 +66,28 @@ By Blue Collar Plebcast October 17, 2021
 
 ## [Compass Home Mining Panel](https://youtu.be/vBzaXLvgSwo)
 Compass Mining Panel Discussion with [@BitcoinCoderBob](https://twitter.com/BitcoinCoderBob), [@missaghi](https://twitter.com/missaghi), [@BITCOIN_RAIL](https://twitter.com/BITCOIN_RAIL), [@CaliInKansas](https://twitter.com/CaliInKansas), & [@econoalchemist](https://twitter.com/econoalchemist)
+
 By Compass Mining:  [@zackvoell](https://twitter.com/zackvoell) & [@wsfoxley](https://twitter.com/wsfoxley) October 6, 2021
+
 -Solutions to home mining obstacles
 
 <p align="center">
   <img width="300" src="assets/compass.jpg">
+</p>
+
+
+## [Oslo Freedom Forum Presentation](https://youtu.be/41w_5K8iYpA)
+Bitcoin Home Mining Overview with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By The Human Rights Foundation during the Bitcoin Academy in Miami, FL USA October 5, 2021
+
+-False Narratives
+-Why is mining at home sensible
+-What is an ASIC
+-How to buy an ASIC
+-Infrastructure requirements
+-Connecting to a mining pool
+
+<p align="center">
+  <img width="300" src="assets/OsloLogo.png">
 </p>
