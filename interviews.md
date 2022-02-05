@@ -273,7 +273,7 @@ By [@Ragnarly](https://twitter.com/Ragnarly) February 16, 2021
   <img width="300" src="/assets/BAB2021.jpg">
 </p>
 
-## [Bit-Buy-Bit EP61](https://www.bit-buy-bit.com/podcast-1/episode/30354936/ep61-bitcoin-podcast-with-econoalchemis)
+## [Bit-Buy-Bit EP61](https://bit-buy-bit.libsyn.com/ep61-bitcoin-podcast-with-econoalchemis)
 A Bitcoin Podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@MaxBitBuyBit](https://twitter.com/MaxBitBuyBit)
