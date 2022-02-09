@@ -10,4 +10,4 @@ author:
 
 ## Web Guide: [COLDCARD Beginners Guide](https://econoalchemist.github.io/COLDCARD-UltraQuick/)
 
-### GitHub Repo: [COLDCARD Beginners Guide](https://github.com/econoalchemist/COLDCARD-UltraQuick)
+### GitHub Repo: [COLDCARD Beginners Repo](https://github.com/econoalchemist/COLDCARD-UltraQuick)
