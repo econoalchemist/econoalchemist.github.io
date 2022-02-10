@@ -6,6 +6,26 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Texas Slim's Vision](https://open.spotify.com/episode/3Uao1PksHXaXqPgCkHDtbx?si=e3gmMqT5QoiR2VePPkav5g&utm_source=copy-link&nd=1)
+Bitcoin Mining, Rejecting Dystopia, & Decentralized Food with [@modernTman](https://twitter.com/modernTman), [@lc_hodl2](https://twitter.com/lc_hodl2), and [@Econoalchemist](https://twitter.com/econoalchemist)
+
+By Texas Slim February 9, 2022
+- Sovereign Mining
+- Pursuit of liberty 
+- Protection 
+- Mindfulness
+- Low time preference
+- Reliability
+- Stability 
+- Industrial & the Individual 
+- Community
+- Beef Initiative launch
+- Food Intelligence
+
+<p align="center">
+  <img width="300" src="/assets/TexasSlim.png">
+</p>
+
 ## [Gold Silver Bitcoin #46](https://www.youtube.com/watch?v=NmD6Tjg4fAA)
 Bitcoin without bridges to the legacy system with [@GldSlvBtc](https://twitter.com/GldSlvBtc) and [@Econoalchemist](https://twitter.com/econoalchemist)
 
