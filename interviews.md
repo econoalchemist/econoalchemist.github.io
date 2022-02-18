@@ -6,6 +6,19 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Blue Collar Plebcast: Season 2, Episode 3](https://anchor.fm/lc-hodl/episodes/S2-E3-homemining-privacy-w-Diverter_NoKYC-econoalchemist-e1e7qti) 
+Bitcoin Home Mining privacy with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC), [@lc_hodl2](https://twitter.com/lc_hodl2), & [@econoalchemist](https://twitter.com/econoalchemist)
+
+By Blue Collar Plebcast February 10, 2022
+
+- Network level privacy
+- On-chain level privacy
+- Physical privacy and more
+
+<p align="center">
+  <img width="300" src="/assets/BlueCollarPlebCast.png">
+</p>
+
 ## [Texas Slim's Vision](https://open.spotify.com/episode/3Uao1PksHXaXqPgCkHDtbx?si=e3gmMqT5QoiR2VePPkav5g&utm_source=copy-link&nd=1)
 Bitcoin Mining, Rejecting Dystopia, & Decentralized Food with [@modernTman](https://twitter.com/modernTman), [@lc_hodl2](https://twitter.com/lc_hodl2), and [@Econoalchemist](https://twitter.com/econoalchemist)
 
