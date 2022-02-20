@@ -6,6 +6,19 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Bit-Buy-Bit EP114](https://ungovernablemisfits.com/podcast/burn-the-bridge-and-bitcoin-with-econoalchemist/)
+A Bitcoin Podcast with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@MaxBitBuyBit](https://twitter.com/MaxBitBuyBit)
+- Bitcoin guides
+- Privacy phones
+- The state of the world 
+- Bitcoin mining & more
+
+<p align="center">
+  <img width="300" src="/assets/BitBuyBit.png">
+</p>
+
 ## [Blue Collar Plebcast: Season 2, Episode 3](https://anchor.fm/lc-hodl/episodes/S2-E3-homemining-privacy-w-Diverter_NoKYC-econoalchemist-e1e7qti) 
 Bitcoin Home Mining privacy with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC), [@lc_hodl2](https://twitter.com/lc_hodl2), & [@econoalchemist](https://twitter.com/econoalchemist)
 
