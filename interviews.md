@@ -6,6 +6,46 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [To the Moon Podcast Episode 39, Part 1](https://www.youtube.com/watch?v=arndkZYdpBY)
+A [Bitrefill](https://twitter.com/bitrefill) podcast with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [Bitrefill](https://www.bitrefill.com/)
+- Bitfinex Hackers
+- Self Custody
+- Privacy
+- Censorship Resistance
+- Mining at Home
+
+<p align="center">
+  <img width="300" src="/assets/Bitrefill.png">
+</p>
+
+## [To the Moon Podcast Episode 39, Part 2](https://www.youtube.com/watch?v=MMa2A6D0eck)
+A [Bitrefill](https://twitter.com/bitrefill) podcast with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [Bitrefill](https://www.bitrefill.com/)
+- Living as a Sovereign Individual
+- Monero, privacy tool, not a Shitcoin
+- Decentralization with Mastodon & Peertube
+- Ending the federal reserve
+
+<p align="center">
+  <img width="300" src="/assets/Bitrefill.png">
+</p>
+
+## [To the Moon Podcast Episode 39, Part 3](https://www.youtube.com/watch?v=C866efQjkzE)
+A [Bitrefill](https://twitter.com/bitrefill) podcast with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [Bitrefill](https://www.bitrefill.com/)
+- El Salvador
+- Favorite Privacy Apps
+- Mining Pools
+- Best Electricity Rates for Mining at Home
+
+<p align="center">
+  <img width="300" src="/assets/Bitrefill.png">
+</p>
+
 ## [Bit-Buy-Bit EP114](https://ungovernablemisfits.com/podcast/burn-the-bridge-and-bitcoin-with-econoalchemist/)
 A Bitcoin Podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
