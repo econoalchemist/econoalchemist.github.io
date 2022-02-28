@@ -7,7 +7,7 @@ permalink: /donate/
 ## Thank you for your support :)
 Click the Bitcoin logo below and it will direct you to the payment server `donate.econoalchemist.com`. 
 
-[![Bitcoin](/assets/Bitcoin3.png)](https://donate.econoalchemist.com/ "Bitcoin")
+[![Bitcoin](/assets/Bitcoin4.png)](https://donate.econoalchemist.com/ "Bitcoin")
 
 Powered by [CyperPunkPay](https://cypherpunkpay.org/).
 
