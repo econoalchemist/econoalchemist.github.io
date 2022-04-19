@@ -18,7 +18,7 @@ Hosted by: [@ODELL](https://twitter.com/ODELL)
 - Decentralizing hashrate
 
 <p align="center">
-  <img width="300" src="/assets/Mining_Stage.jpg">
+  <img width="400" src="/assets/Mining_Stage.jpg">
 </p>
 
 ## [The Watchman Privacy Podcast, episode 28](https://www.youtube.com/watch?v=bDN0Oyz8WWA)
@@ -30,7 +30,7 @@ By [Gabriel Custodiet](https://twitter.com/WatchmanPrivacy)
 - Acquiring non-KYC bitcoin
 
 <p align="center">
-  <img width="300" src="/assets/Watchman.png">
+  <img width="400" src="/assets/Watchman.png">
 </p>
 
 ## [To the Moon Podcast, episode 39](https://www.youtube.com/watch?v=uRih5-p9eyE)
