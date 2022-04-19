@@ -6,6 +6,17 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Bitcoin2022 Miami Conference: (Home) Mining For The Streets](https://www.youtube.com/watch?v=n2ClKkQTBms)
+A home mining panel with [@econoalchemist](https://twitter.com/econoalchemist), [@CoinHeated](https://twitter.com/CoinHeated), [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC), [@JStefanop1](https://twitter.com/JStefanop1)
+
+Hosted by: [@ODELL](https://twitter.com/ODELL)
+- Why home mining is important
+- Electrical
+- Heat
+- Noise
+- FutureBit Apollo
+- Decentralizing hashrate
+
 ## [The Watchman Privacy Podcast, episode 28](https://www.youtube.com/watch?v=bDN0Oyz8WWA)
 A privacy focused podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
@@ -14,7 +25,7 @@ By [Gabriel Custodiet](https://twitter.com/WatchmanPrivacy)
 - Privacy implications
 - Acquiring non-KYC bitcoin
 
-## [To the Moon Podcast Episode 39](https://www.youtube.com/watch?v=uRih5-p9eyE)
+## [To the Moon Podcast, episode 39](https://www.youtube.com/watch?v=uRih5-p9eyE)
 A [Bitrefill](https://twitter.com/bitrefill) podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [Bitrefill](https://www.bitrefill.com/)
@@ -36,7 +47,7 @@ By [Bitrefill](https://www.bitrefill.com/)
   <img width="300" src="/assets/Bitrefill.png">
 </p>
 
-## [Bit-Buy-Bit EP114](https://ungovernablemisfits.com/podcast/burn-the-bridge-and-bitcoin-with-econoalchemist/)
+## [Bit-Buy-Bit, EP114](https://ungovernablemisfits.com/podcast/burn-the-bridge-and-bitcoin-with-econoalchemist/)
 A Bitcoin Podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@MaxBitBuyBit](https://twitter.com/MaxBitBuyBit)
@@ -49,7 +60,7 @@ By [@MaxBitBuyBit](https://twitter.com/MaxBitBuyBit)
   <img width="300" src="/assets/BitBuyBit.png">
 </p>
 
-## [Blue Collar Plebcast: Season 2, Episode 3](https://anchor.fm/lc-hodl/episodes/S2-E3-homemining-privacy-w-Diverter_NoKYC-econoalchemist-e1e7qti) 
+## [Blue Collar Plebcast: Season 2, episode 3](https://anchor.fm/lc-hodl/episodes/S2-E3-homemining-privacy-w-Diverter_NoKYC-econoalchemist-e1e7qti) 
 Bitcoin Home Mining privacy with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC), [@lc_hodl2](https://twitter.com/lc_hodl2), & [@econoalchemist](https://twitter.com/econoalchemist)
 
 By Blue Collar Plebcast February 10, 2022
@@ -82,7 +93,7 @@ By Texas Slim February 9, 2022
   <img width="300" src="/assets/TexasSlim.png">
 </p>
 
-## [Gold Silver Bitcoin #46](https://www.youtube.com/watch?v=NmD6Tjg4fAA)
+## [Gold Silver Bitcoin, #46](https://www.youtube.com/watch?v=NmD6Tjg4fAA)
 Bitcoin without bridges to the legacy system with [@GldSlvBtc](https://twitter.com/GldSlvBtc) and [@Econoalchemist](https://twitter.com/econoalchemist)
 
 By the Gold Silver Bitcoin Show January 4, 2022
@@ -127,7 +138,7 @@ By Guns N' Bitcoin November 23, 2021
   <img width="300" src="/assets/BANB2022.jpeg">
 </p>
 
-## [Blue Collar Plebcast: Season 1, Episode 19](https://open.spotify.com/episode/3scPhrHu696lpaVOOngkLZ?si=P9xA6q53TPCpFvp2wepo9w&utm_source=copy-link&nd=1) 
+## [Blue Collar Plebcast: Season 1, episode 19](https://open.spotify.com/episode/3scPhrHu696lpaVOOngkLZ?si=P9xA6q53TPCpFvp2wepo9w&utm_source=copy-link&nd=1) 
 Bitcoin Home Mining with [@BITCOIN_RAIL](https://twitter.com/BITCOIN_RAIL), [@RoninMiner](https://twitter.com/RoninMiner), [@lc_hodl2](https://twitter.com/lc_hodl2), & [@econoalchemist](https://twitter.com/econoalchemist)
 
 By Blue Collar Plebcast October 17, 2021
@@ -168,7 +179,7 @@ By [@HFR](https://twitter.com/HRF) during the Bitcoin Academy in Miami, FL USA O
   <img width="400" src="/assets/OsloLogo.png">
 </p>
 
-## [Citadel Dispatch e0.3.1](https://bitcointv.com/w/fnCudFVejsMjZQUGRq72eU)
+## [Citadel Dispatch, e0.3.1](https://bitcointv.com/w/fnCudFVejsMjZQUGRq72eU)
 Getting Started with Bitcoin Mining with [@Diverter_NoKYC](https://twitter.com/Diverter_NoKYC) [@RoninMiner](https://twitter.com/RoninMiner) & [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@ODELL](https://twitter.com/ODELL) July 20, 2021
@@ -320,7 +331,7 @@ By [@dearezkitha](https://twitter.com/dearezkitha) March 14, 2021
 </p>
 
 
-## [Citadel Dispatch e0.1.0](https://bitcointv.com/w/jDioZHXHfuW7heZ5chRVbm)
+## [Citadel Dispatch, e0.1.0](https://bitcointv.com/w/jDioZHXHfuW7heZ5chRVbm)
 Bitcoin Self Custody, Security, and Privacy with [@craigraw](https://twitter.com/craigraw) & [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@ODELL](https://twitter.com/ODELL) February 23, 2021
@@ -349,7 +360,7 @@ By [@Ragnarly](https://twitter.com/Ragnarly) February 16, 2021
   <img width="300" src="/assets/BAB2021.jpg">
 </p>
 
-## [Bit-Buy-Bit EP61](https://bit-buy-bit.libsyn.com/ep61-bitcoin-podcast-with-econoalchemis)
+## [Bit-Buy-Bit, EP61](https://bit-buy-bit.libsyn.com/ep61-bitcoin-podcast-with-econoalchemis)
 A Bitcoin Podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
 By [@MaxBitBuyBit](https://twitter.com/MaxBitBuyBit)
