@@ -6,6 +6,14 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [The Watchman Privacy Podcast, episode 28](https://www.youtube.com/watch?v=bDN0Oyz8WWA)
+A privacy focused podcast with [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [Gabriel Custodiet](https://twitter.com/WatchmanPrivacy)
+- Bitcoin home mining
+- Privacy implications
+- Acquiring non-KYC bitcoin
+
 ## [To the Moon Podcast Episode 39](https://www.youtube.com/watch?v=uRih5-p9eyE)
 A [Bitrefill](https://twitter.com/bitrefill) podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
