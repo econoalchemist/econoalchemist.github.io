@@ -73,6 +73,21 @@ Date: April 12, 2022
   <img width="400" src="/assets/Watchman.png">
 </p>
 
+## [CoinDesk Home Mining Piece](https://www.coindesk.com/layer2/miningweek/2022/03/21/dont-call-it-a-comeback-the-unlikely-rise-of-home-bitcoin-mining/)
+A collaborative piece on Bitcoin Home Mining featuring input from [@econoalchemist](https://twitter.com/econoalchemist), [@Marketsbylili](https://twitter.com/Marketsbylili), [@Crypto_Mags](https://twitter.com/Crypto_Mags), [@ckpooldev](https://twitter.com/ckpooldev), [@CoinHeated](https://twitter.com/CoinHeated), [@wsfoxley](https://twitter.com/wsfoxley), [@zackvoell](https://twitter.com/zackvoell).
+
+Author: [Jeff Wilser](https://twitter.com/jeffwilser)
+
+Date: March 21, 2022
+
+- How each contributor got started mining
+- Some challenges they faced
+- Why Bitcoin home mining is important to them
+
+<p align="center">
+  <img width="400" src="/assets/CoinDeskArticle.png">
+</p>
+
 ## [To the Moon Podcast, episode 39](https://www.youtube.com/watch?v=uRih5-p9eyE)
 A [Bitrefill](https://twitter.com/bitrefill) podcast with [@econoalchemist](https://twitter.com/econoalchemist)
 
