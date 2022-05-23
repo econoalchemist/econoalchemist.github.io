@@ -6,6 +6,21 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Bitcoin Magazine Live](https://youtu.be/FHukk_9DjUw?t=5034)
+Live conversation about Bitcoin home mining, self custody, and non-KYC.
+
+By [@q_liketheletter](https://twitter.com/q_liketheletter), [@phjlljp](https://twitter.com/phjlljp), and [@ChrisAlaimo6](https://twitter.com/ChrisAlaimo6)
+
+Date: May 9, 2022
+
+- Bitcoin Home Mining
+- Self Custody
+- Non KYC
+
+<p align="center">
+  <img width="400" src="/assets/BM-Live.png">
+</p>
+
 ## [BTCsessions, Why Are We Bullish?](https://www.youtube.com/watch?v=ec53MfMCqQg)
 Round table discussion on developments that have us feeling bullish on Bitcoin. Featuring Ben from [@BTCsessions](https://twitter.com/BTCsessions), [@econoalchemist](https://twitter.com/econoalchemist), [@ChrisAlaimo6](https://twitter.com/ChrisAlaimo6), and [@NeilJacobs](https://twitter.com/NeilJacobs)
 
