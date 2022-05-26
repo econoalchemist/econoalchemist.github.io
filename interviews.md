@@ -6,6 +6,22 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Cafe Bitcoin](https://open.spotify.com/episode/7v2WwaZ0OLbI1iFvXa693N)
+A [Swan Bitcoin](https://twitter.com/SwanBitcoin) podcast with special announcement from El Zonte Capital with Max Keiser and Stacy Herbert. We talk about the exciting work they are doing with their new fund and what exciting things we can except from them this year. We also catch up with Econoalchemist to talk about why non-kyc coins are something to be educated on and the risks of coinjoins, whirlpooling and more.
+
+By [@alexstanczyk](https://twitter.com/alexstanczyk)
+
+Date: May 23, 2022
+
+- El Zonte
+- Self Custody
+- Non KYC
+- CoinJoin
+
+<p align="center">
+  <img width="400" src="/assets/CafeBitcoin.png">
+</p>
+
 ## [Bitcoin Magazine Live](https://youtu.be/FHukk_9DjUw?t=5034)
 Live conversation about Bitcoin home mining, self custody, and non-KYC.
 
