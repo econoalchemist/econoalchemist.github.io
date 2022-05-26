@@ -19,7 +19,7 @@ Date: May 23, 2022
 - CoinJoin
 
 <p align="center">
-  <img width="400" src="/assets/CafeBitcoin.png">
+  <img width="300" src="/assets/CafeBitcoin.png">
 </p>
 
 ## [Bitcoin Magazine Live](https://youtu.be/FHukk_9DjUw?t=5034)
