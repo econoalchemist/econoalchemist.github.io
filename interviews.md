@@ -6,6 +6,21 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Texas Slim's Vision](https://www.youtube.com/watch?v=OzwLpxmmtC4)
+Bitcoin self-custody and censorship resistance empower the individual. Bitcoin mining is a big piece of that. The Beef Initiative conference will bring ranchers and bitcoiners together. 
+
+By Texas Slim, [@modernTman](https://twitter.com/modernTman) 
+
+Date: May 28, 2022
+
+- Individual empowerment with Bitcoin
+- Bitcoin mining
+- The upcoming [@beefinitiative](https://twitter.com/beefinitiative) conference
+
+<p align="center">
+  <img width="300" src="/assets/TexasSlim.png">
+</p>
+
 ## [Cafe Bitcoin](https://open.spotify.com/episode/7v2WwaZ0OLbI1iFvXa693N)
 A [Swan Bitcoin](https://twitter.com/SwanBitcoin) podcast with special announcement from El Zonte Capital with Max Keiser and Stacy Herbert. We talk about the exciting work they are doing with their new fund and what exciting things we can except from them this year. We also catch up with Econoalchemist to talk about why non-kyc coins are something to be educated on and the risks of coinjoins, whirlpooling and more.
 
