@@ -21,7 +21,7 @@ Recorded on: April 10, 2022
 - Mining Bitcoin at home
 
 <p align="center">
-  <img width="300" src="/assets/CryptoVigilante.jpg">
+  <img width="200" src="/assets/CryptoVigilante.jpg">
 </p>
 
 ## [Texas Slim's Vision](https://www.youtube.com/watch?v=OzwLpxmmtC4)
