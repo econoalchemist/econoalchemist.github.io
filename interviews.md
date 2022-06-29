@@ -6,6 +6,24 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [The Crypto Vigilante](https://www.youtube.com/watch?v=Ss_HBXeBFAM)
+Recorded during the Bear Arms N' Bitcoin 2022 conference.  
+
+By Rafael LaVerde, [@vamosvigilante](https://twitter.com/vamosvigilante) 
+
+Published on: June 29, 2022
+
+Recorded on: April 10, 2022
+
+- How money is being weaponized
+- Freedom technology
+- Using the tools to protect your freedoms
+- Mining Bitcoin at home
+
+<p align="center">
+  <img width="300" src="/assets/CryptoVigilante.jpg">
+</p>
+
 ## [Texas Slim's Vision](https://www.youtube.com/watch?v=OzwLpxmmtC4)
 Bitcoin self-custody and censorship resistance empower the individual. Bitcoin mining is a big piece of that. The Beef Initiative conference will bring ranchers and bitcoiners together. 
 
