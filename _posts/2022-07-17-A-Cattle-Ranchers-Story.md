@@ -1,10 +1,20 @@
-Below you will find the chronological archives of a Colorado cattle rancher named Vern Wagner. Vern was born in 1933 to a cattle ranching family near Lamar, CO. He left home at age 14, served in the armed forces, and graduated with a degree in agriculture from CSU. By the year 2000, Vern started a grazing association with small parcel owners near Hartsle, CO. The operation quickly expanded to over 8,000 private & BLM leases and Vern's Cross Slash Ranch controlled roughly 130,000 acres, 1,300 cattle, and 140 horses during it's prime. The elevation in the area was at roughly 9,000ft. For the high altitude ranching, Vern raised Black Baldy cows. 
+# A Cattle Rancher's Story
+Below you will find the chronological archives of a Colorado cattle rancher named Vern Wagner. Vern stood against the state in legal battles that stretched out over a decade. Corrupt officials abused their positions of power to steal everything Vern had. Vern was born in 1933 to a cattle ranching family near Lamar, CO. He left home at age 14, served in the armed forces, and graduated with a degree in agriculture from CSU. By the year 2000, Vern started a grazing association with small parcel owners near Hartsle, CO. The operation quickly expanded to over 8,000 private & BLM leases and Vern's Cross Slash Ranch controlled roughly 130,000 acres, 1,300 cattle, and 140 horses during it's prime. The elevation in the area was at roughly 9,000ft. For the high altitude ranching, Vern raised Black Baldy cows. 
+
+The time line below tells the story of how the State's monopoly on violence took everything from Vern and his family. Over the years, Vern was thrown in jail with no-charges filed, later courts found that 10 of his constitutional rights were violated. The State stole his cattle and auctioned them off to pay for their own expenses in investigating him, only to have a jury find him guilty of a single count of animal cruelty which was later overturned. Eventually everything Vern had was stolen through the attrition of several legal battles against the state; resulting in the foreclosure of his home, his sons leaving to pursue other businesses, and his wife suffering a heart attack from the stress of it all. These are the archives of the local newspaper, The Flume, which chronicled Vern's legal battles over the period from 2003 until 2014. I met Vern and his wife, Veyon, in early 2012 and felt compelled to share the records of his story here.
 
 <p align="center">
 <img src="/assets/vernwagner.jpg">
 </p>
 
-The time line below tells the story of how the State's monopoloy on violence took everything from Vern and his family. Over the years, Vern was thrown in jail with no-charges filed. The State stole his cattle and auctioned them off to pay for their own expenses in investigating him. Eventually everything Vern had was stolen through the attrition of several legal battles against the state. These are the archives of the local newspaper, The Flume, which chronicled Vern's legal battles over the period from 2003 until 2014. I met Vern and his wife, Veyon, in early 2012 and felt compelled to share the records of his story here.
+<p align="center">
+"If you doubt anything I am saying, come ride with me. I will prove it to you."
+</p> 
+<p align="center">
+-Vern Wagner
+</p>
+ 
+## The Archives
 
 2003 July 04
 ["BOCC fleshes out trespass grazing ordinance"](https://archive.ph/4zhed)
