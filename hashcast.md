@@ -11,6 +11,8 @@ This show offers you a chance to catch up on the last ~2 weeks of Bitcoin mining
 
 The Hash Cast episodes are hosted on [BitcoinTV.com](https://bitcointv.com/c/hashcast/videos). 
 
+### [Episode 368](https://bitcointv.com/w/o959vFP8v9rnhFxhiAhzAZ) July 7, 2022
+
 ### [Episode 367](https://bitcointv.com/w/feGFZxAQnkNkMpxKv4ypNa) June 22, 2022
 
 ### [Episode 366](https://bitcointv.com/w/3HkVKEkJYPJMm8ArHXsqri) June 8, 2022
