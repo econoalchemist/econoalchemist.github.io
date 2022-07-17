@@ -1,5 +1,5 @@
 ---
 layout: page
-title: A Cattle Rancher's Story
-permalink: /acattleranchersstory/
+title: A Cattle Rancher
+permalink: /cattle/
 ---
