@@ -371,7 +371,7 @@ The time line below tells the story of how the State's monopoly on violence took
 ["Hartsel-area rancher Vern Wagner animal cruelty charges overturned"](https://archive.ph/AH5DV)
 
 2014 June 13
-["LETTER:Justice finally served"](https://archive.ph/HZkxm)
+["LETTER: Justice finally served"](https://archive.ph/HZkxm)
 
 2014 June 20
 ["LETTER: Woodbury and Wagner"](https://archive.ph/fH14z)
