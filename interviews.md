@@ -6,6 +6,27 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Rocky Mountain Mining Institute Presentation](https://media.econoalchemist.com/w/94sbecBHSL4kUJnPCxe5bj)
+"Bitcoin Proof Of Work And The Power Of Hydrocarbons" brought to you by [@upstreamdatainc](https://twitter.com/upstreamdatainc) presented by [@econoalchemist](https://twitter.com/econoalchemist)
+
+By [@RMCMI](https://twitter.com/RMCMI) during the RMMI conference in Snowmass, CO USA 
+
+Date: June 27, 2022
+
+- What is Bitcoin?
+- What is Proof-of-Work?
+- How much energy does Bitcoin use?
+- What is the projected growth?
+- Why reliability matters?
+- Why won’t renewables suffice?
+- How Bitcoin helps NPHR efficiency?
+- How Bitcoin helps transmission loss?
+- How Bitcoin helps flared methane?
+
+<p align="center">
+  <img width="400" src="/assets/TitleImage.png">
+</p>
+
 ## [The Crypto Vigilante](https://www.youtube.com/watch?v=Ss_HBXeBFAM)
 Recorded during the Bear Arms N' Bitcoin 2022 conference.  
 
