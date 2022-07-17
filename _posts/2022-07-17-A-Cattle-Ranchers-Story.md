@@ -1,6 +1,6 @@
 Below you will find the chronological archives of a Colorado cattle rancher named Vern Wagner. Vern was born in 1933 to a cattle ranching family near Lamar, CO. He left home at age 14, served in the armed forces, and graduated with a degree in agriculture from CSU. By the year 2000, Vern started a grazing association with small parcel owners near Hartsle, CO. The operation quickly expanded to over 8,000 private & BLM leases and Vern's Cross Slash Ranch controlled roughly 130,000 acres at it's peak. The elevation in the area was at  roughly 9,000ft. For the high altitude ranching, Vern raised Black Baldy cows. 
 
-![](assets/vernwagner.png)
+![](assets/vernwagner.jpg)
 
 The time line below tells the story of how the State's monopoloy on violence took everything from Vern and his family. Over the years, Vern was thrown in jail with no-charges filed. The State stole his cattle and auctioned them off to pay for their own expenses in investigating him. Eventually everything Vern had was stolen through the attrition of several legal battles against the state. These are the archives of the local newspaper, The Flume, which chronicled Vern's story over the period from 2003 until 2018. I met Vern and his wife, Veyon, in early 2012 and felt compelled to share the records of his story here.
 
