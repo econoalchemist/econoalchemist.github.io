@@ -8,7 +8,7 @@ permalink: /contact/
 <img width="500" height="281" src="/assets/impersonation.jpg">
  </p>
 
-The only companies I am associated with are [Bitcoin Magazine](https://bitcoinmagazine.com/) and [Upstream Data](https://www.upstreamdata.ca/). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer. 
+The only companies I am associated with are [Bitcoin Magazine](https://bitcoinmagazine.com/), [Upstream Data](https://www.upstreamdata.ca/), and [Braiins](https://braiins.com/). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer. 
 
 - <kbd>Email:</kbd> [econoalchemist@protonmail.com](mailto:econoalchemist@protonmail.com)
 
