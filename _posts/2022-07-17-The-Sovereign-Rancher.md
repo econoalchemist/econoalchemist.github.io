@@ -1,3 +1,13 @@
+---
+layout: post
+toc: false
+title: "SovereignRancher"
+categories: Bitcoin-Circular-Economy-and-Property-Rights
+tags: [bitcoin, beef]
+author:
+  - econoalchemist
+---
+
 # The Sovereign Rancher
 Below you will find the chronological archives of a Colorado cattle rancher named Vern Wagner. Vern stood against the state in legal battles that stretched out over a decade. Corrupt officials abused their positions of power to steal everything Vern had. Vern was born in 1933 to a cattle ranching family near Lamar, CO. He left home at age 14, served in the armed forces, and graduated with a degree in agriculture from CSU. By the year 2000, Vern started a grazing association with small parcel owners near Hartsle, CO. The operation quickly expanded to over 8,000 private & BLM leases and Vern's Cross Slash Ranch controlled roughly 130,000 acres, 2,000 cattle, and 140 horses during it's prime. The elevation in the area was at roughly 9,000ft. For the high altitude ranching, Vern raised Black Baldy cows. 
 
