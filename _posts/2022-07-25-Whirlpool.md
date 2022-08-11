@@ -1,7 +1,7 @@
 ---
 layout: post
 toc: false
-title: "SpendingTools"
+title: "Whirlpool Series"
 categories: Bitcoin-Privacy-CoinJoin
 tags: [bitcoin, Privacy, self-custody, CoinJoin, Whirlpool]
 author:
