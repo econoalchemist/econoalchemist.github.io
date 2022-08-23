@@ -6,6 +6,22 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Cafe Bitcoin](https://open.spotify.com/episode/0AtLkFTtOqosBY9hReMe4z)
+A [Swan Bitcoin](https://twitter.com/SwanBitcoin) podcast with [@econoalchemist](https://twitter.com/econoalchemist) to talk about his latest [Bitcoin Magazine](https://bitcoinmagazine.com/guides/how-to-spend-mixed-bitcoin-privately) article, "How to maintain privacy when spending mixed bitcoin". We talk about the importance of privacy and more. 
+
+By [@alexstanczyk](https://twitter.com/alexstanczyk)
+
+Date: August 2, 2022
+
+- Samourai Wallet & Sparrow Wallet
+- Self Custody
+- Dangers of KYC
+- CoinJoin
+
+<p align="center">
+  <img width="300" src="/assets/CafeBitcoin.png">
+</p>
+
 ## [Rocky Mountain Mining Institute Presentation](https://media.econoalchemist.com/w/94sbecBHSL4kUJnPCxe5bj)
 "Bitcoin Proof Of Work And The Power Of Hydrocarbons" brought to you by [@upstreamdatainc](https://twitter.com/upstreamdatainc) presented by [@econoalchemist](https://twitter.com/econoalchemist)
 
