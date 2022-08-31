@@ -6,6 +6,22 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Meat Mafia, episode 93](https://themeatmafiapodcast.substack.com/p/93-econoalchemist-econoalchemist?r=1n4dqs&s=w&utm_campaign=post&utm_medium=web#details)
+The Meat Mafia Podcast mission is addressing fundamental problems in our food and healthcare system.
+
+By [@CarniClemenza](https://twitter.com/CarniClemenza) and [@MrSollozzo](https://twitter.com/MrSollozzo)
+
+Date: August 31, 2022
+
+- How ranchers & farmers can use bitcoin
+- What is the proper role of the state? 
+- Vern Wagner's legal battles against the state 
+- How can you become more self-sovereign?
+
+<p align="center">
+  <img width="300" src="/assets/meatmafia.png">
+</p>
+
 ## [Talking In Bits, episode 78](https://bitcointv.com/c/talkinginbits/videos)
 A 100% listener funded podcast with [@econoalchemist](https://twitter.com/econoalchemist) on how Bitcoin empowers the individual and how permissioned systems subtract from that power. 
 
