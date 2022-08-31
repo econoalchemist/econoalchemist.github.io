@@ -19,7 +19,7 @@ Date: August 31, 2022
 - How can you become more self-sovereign?
 
 <p align="center">
-  <img width="300" src="/assets/meatmafia.png">
+  <img width="300" src="/assets/meatmafia.jpg">
 </p>
 
 ## [Talking In Bits, episode 78](https://bitcointv.com/c/talkinginbits/videos)
