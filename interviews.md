@@ -6,6 +6,26 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Talking In Bits, episode 78](https://bitcointv.com/c/talkinginbits/videos)
+A 100% listener funded podcast with [@econoalchemist](https://twitter.com/econoalchemist) on how Bitcoin empowers the individual and how permissioned systems subtract from that power. 
+
+By [@DeFBeD](https://twitter.com/DeFBeD)
+
+Date: August 31, 2022
+
+- Selfless educational content
+- KYC/AML honeypot
+- Data breaches
+- State attacks
+- KYC free bitcoin
+- Invest in ASICS
+- @beefinitiative 
+- Sovereign living
+
+<p align="center">
+  <img width="300" src="/assets/TalkingInBits.png">
+</p>
+
 ## [Cafe Bitcoin](https://open.spotify.com/episode/0AtLkFTtOqosBY9hReMe4z)
 A [Swan Bitcoin](https://twitter.com/SwanBitcoin) podcast with [@econoalchemist](https://twitter.com/econoalchemist) to talk about his latest [Bitcoin Magazine](https://bitcoinmagazine.com/guides/how-to-spend-mixed-bitcoin-privately) article, "How to maintain privacy when spending mixed bitcoin". We talk about the importance of privacy and more. 
 
