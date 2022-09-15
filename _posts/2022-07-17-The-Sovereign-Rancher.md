@@ -2,7 +2,7 @@
 layout: post
 toc: false
 title: "SovereignRancher"
-categories: Bitcoin-Circular-Economy-and-Property-Rights
+categories: bitcoin-and-beef
 tags: [bitcoin, beef]
 author:
   - econoalchemist
