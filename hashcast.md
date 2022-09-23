@@ -7,9 +7,13 @@ permalink: /hashcast/
 ## A podcast for Bitcoin home miners.
 A short show focused on mining Bitcoin at home. Brought to you every 2,016 blocks at the time of the difficulty adjustment.
 
-This show offers you a chance to catch up on the last ~2 weeks of Bitcoin mining stats, news, developments, home miner setups, and any breaking privacy implications. 
+This show offers you a chance to catch up on the last ~2 weeks of Bitcoin mining stats, news, developments, home miner setups, and any breaking privacy implications.
+
+Sponsored by: [Upstream Data](https://blog.upstreamdata.ca/) & [Braiins](https://braiins.com/)
 
 The Hash Cast episodes are hosted on [BitcoinTV.com](https://bitcointv.com/c/hashcast/videos). 
+
+### [Episode 373](https://bitcointv.com/w/vWD3116U1dbwPuQkuTcnDX) September 14, 2022
 
 ### [Episode 372](https://bitcointv.com/w/ftwj8z9Ty6xk8icdwHv43C) August 30, 2022
 
