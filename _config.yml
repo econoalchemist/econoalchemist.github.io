@@ -10,6 +10,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
 
 paginate: 10
 
@@ -40,3 +41,6 @@ social:
     - https://github.com/econoalchemist
     - https://t.me/econoalchemist
 lang: en
+title: The Hash Cast
+description: A Bitcoin mining podcast. Stay up to date with network stats, industry news, developments, home miner setups, privacy implications, and guest appearances.
+author: @econoalchemist
