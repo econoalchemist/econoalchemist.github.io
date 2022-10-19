@@ -6,6 +6,28 @@ permalink: /interviews/
 
 # Find all my interviews here in order of the most recent.
 
+## [Georgia Beef Initiative Summit](https://www.youtube.com/watch?v=49xj7sUNEWw)
+A presentation titled "Why Bitcoin?" given at the [@whiteoakpasture](https://twitter.com/whiteoakpasture) in Bluffton, GA.
+
+Date: September 17, 2022
+
+- How to approach bitcoin 
+- Who is Econoalchemist
+- Why The Beef Initiative 
+- What is Bitcoin
+- Energy use FUD
+- Proof of Stake vs Proof of Work
+- The Asymmetric Advantage
+- The Looming Threat
+- A Real World Example
+- [The Vern Wagner Story](https://econoalchemist.github.io/bitcoin-and-beef/2022/07/17/The-Sovereign-Rancher.html)
+
+<p align="center">
+  <img width="300" src="/assets/GeorgiaTitleSlide.png">
+</p>
+
+By [@econoalchemist](https://twitter.com/econoalchemist) on behalf of the [@beefinitiative](https://twitter.com/beefinitiative)
+
 ## [Meat Mafia, episode 93](https://themeatmafiapodcast.substack.com/p/93-econoalchemist-econoalchemist?r=1n4dqs&s=w&utm_campaign=post&utm_medium=web#details)
 The Meat Mafia Podcast mission is addressing fundamental problems in our food and healthcare system.
 
