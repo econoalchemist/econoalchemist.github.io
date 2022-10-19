@@ -23,7 +23,7 @@ Date: September 17, 2022
 - [The Vern Wagner Story](https://econoalchemist.github.io/bitcoin-and-beef/2022/07/17/The-Sovereign-Rancher.html)
 
 <p align="center">
-  <img width="300" src="/assets/GeorgiaTitleSlide.png">
+  <img width="500" src="/assets/GeorgiaTitleSlide.png">
 </p>
 
 By [@econoalchemist](https://twitter.com/econoalchemist) on behalf of the [@beefinitiative](https://twitter.com/beefinitiative)
