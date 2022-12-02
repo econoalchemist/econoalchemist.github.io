@@ -13,6 +13,12 @@ Sponsored by: [Upstream Data](https://blog.upstreamdata.ca/) & [Braiins](https:/
 
 The Hash Cast episodes are hosted on [BitcoinTV.com](https://bitcointv.com/c/hashcast/videos). 
 
+### [Episode 377](https://bitcointv.com/w/ebcxfFdiiCq6UpubHJdAHc) November 9, 2022
+
+### [Episode 376](https://bitcointv.com/w/scsK7phoKzHyAq3fMXrSDJ) October 29, 2022
+
+### [Episode 375](https://bitcointv.com/w/28R5Dz8iZJJ6krLwdaEH6J) October 14, 2022
+
 ### [Episode 374](https://bitcointv.com/w/kiUrLz4uHf72XnxGywmQeq) September 27, 2022
 
 ### [Episode 373](https://bitcointv.com/w/vWD3116U1dbwPuQkuTcnDX) September 14, 2022
