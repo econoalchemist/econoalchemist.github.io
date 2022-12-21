@@ -8,4 +8,4 @@ author:
   - econoalchemist
 ---
 ## Web Guide: [Whirlpool Guide](https://econoalchemist.github.io/Whirlpool/)
-### GitHub Repo: [Spending Tools Repo](https://github.com/econoalchemist/Whirlpool)
+### GitHub Repo: [Whirlpool Repo](https://github.com/econoalchemist/Whirlpool)
