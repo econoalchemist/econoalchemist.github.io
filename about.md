@@ -14,8 +14,6 @@ This blog is focused on bringing you articles about interacting with Bitcoin. Th
 
 My content always has been and always will be free. I don't support advertisers, pay walls, or subscriptions on this site. It pisses me off when an advertisement interrupts or distracts me from the information I'm trying to absorb, and I want to treat my readers how I want to be treated; uninterrupted so I can concentrate. I am not paid for my opinions. If you feel so inclined, visit the [Donation page](https://www.econoalchemist.com/donate) and leave me a tip. It is greatly appreciated and helps me prioritize these efforts.
 
-Full disclosure: I am a contributor with [Bitcoin Magazine](https://bitcoinmagazine.com/), which my time is compensated for. I am also an affiliate with [Upstream Data](https://www.upstreamdata.ca/), which my affiliation is retained. I also contribute to the [Braiins Blog](https://braiins.com/category/bitcoin-mining-insights), which my time is compensated for.    
-
 <p>
  <div style="text-align: justify">
 In this blog, you will find articles and guides on how to use various Bitcoin wallets, privacy enhancing techniques, methods of self custody, my perspective on industry developments, mining related content and more. 
