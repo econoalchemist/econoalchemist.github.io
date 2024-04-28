@@ -1,7 +1,7 @@
 - title: About
   url: /about/
-- title: The Hash Cast
-  url: /hashcast/
+- title: Pod Casts
+  url: /podcasts/
 - title: Donate
   url: /donate/
 - title: Interviews
@@ -10,6 +10,4 @@
   url: /contact/
 - title: Bitcoin White Paper
   url: /whitepaper/
-- title: Hell or High Water
-  url: /hellorhighwater/  
-
+ 
