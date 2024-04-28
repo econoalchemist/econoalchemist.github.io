@@ -8,4 +8,4 @@ author:
   - econoalchemist
 ---
 ## Web Article: [Node Build Guide](https://econoalchemist.github.io/Passport-Batch2/)
-### GitHub Repo: [Node Build Repo](https://github.com/econoalchemist/Passport-Batch2)
+### GitHub Repo: [Node Build Repo](https://github.com/econoalchemist/Raspi-Node-Build)
