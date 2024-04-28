@@ -4,7 +4,7 @@ title: Hell or High Water
 permalink: /hellorhighwater/
 ---
 
-## An audio podcast 
+## Hell or High Water, a podcast on injustice.
 <p> 
   <div style="text-align: justify">
 Although not directly related to Bitcoin, this podcast tells a story relating to the struggle for freedom, the abuses of power from oppressors, and how a family has been shattered by injustice. I hope that this brings awareness not only to my friends' unfortunate situation but also to the harsh realities of the criminal justice system and how it is continuously encroaching on the freedoms so many of us take for granted. 
