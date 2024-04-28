@@ -8,7 +8,7 @@ permalink: /contact/
 <img width="500" height="281" src="/assets/impersonation.jpg">
  </p>
 
-The only company I am associated with is [Bitcoin Magazine](https://bitcoinmagazine.com/). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer. 
+I am not currently associated with any Bitcoin company, however I have collaborated with and made content contributions to the following Bitcoin companies/projects previously: [Bitcoin Magazine](https://bitcoinmagazine.com/), [Upstream Data](https://upstreamdata.com/), [Braiins](https://braiins.com/blog), [Samourai Wallet](http://samouraiwallet.com/), and [CoinKite](https://coinkite.com/). Don't get scammed. If you have your doubts, I will always sign a unique message with my PGP key upon request. If you are communicating with me from any account not listed below, you are dealing with a scammer. 
 
 - <kbd>Email:</kbd> [econoalchemist@protonmail.com](mailto:econoalchemist@protonmail.com)
 
