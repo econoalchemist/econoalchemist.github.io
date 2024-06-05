@@ -11,7 +11,7 @@ author:
 From 2020-10-27 through 2020-11-27 FinCEN is accepting comments on the proposed changes to the FATF travel rule. These changes are invasive to individual privacy, burdensome on small businesses, and an overreach of government regulatory authority.
 
 <p align="center">
-  <img src="assets/No-Privacy.jpg">
+  <img src="/assets/No-Privacy.jpg">
 </p>
 
 Three days into the "open for public comment" phase of the proposed rule changes and many have voiced their thoughts. It is good to see people vocally opposing the rule changes. As of today, I can see that 96 comments have been submitted, of which 16 are available and publically posted. I read through the 16 available comments and I did not see any that were in support of the rule changes. 
