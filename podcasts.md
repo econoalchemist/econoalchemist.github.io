@@ -6,7 +6,7 @@ permalink: /podcasts/
 # Pod256, a weekly Bitcoin Mining News & Analysis podcast.
 Focused on mining, energy, and proof-of-work - hosted by Rod [@bitkite](https://wwww.twitter.com/bitkite) and [@econoalchemist](https://www.twitter.com/econoalchemist). Running from January 2023 - Current.
 
-### Find all Pod256 episodes on the [Podcast Index](https://podcastindex.org/podcast/5876654).
+### Find all Pod256 episodes at https://www.pod256.org
 
 
 # The Hash Cast, a podcast for Bitcoin home miners. [Archives]
