@@ -7,5 +7,5 @@ tags: [bitcoin, self-custody, backups]
 author:
   - econoalchemist
 ---
-## Web Article: [Dice Rolls Guide]()
-### GitHub Repo: [Dice Rolls Repo]()
+## Web Article: [Dice Rolls Guide](https://econoalchemist.github.io/Dice-Rolls/)
+### GitHub Repo: [Dice Rolls Repo](https://github.com/econoalchemist/Dice-Rolls)
