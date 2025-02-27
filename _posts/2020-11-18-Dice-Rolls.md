@@ -1,9 +1,11 @@
 ---
 layout: post
 toc: false
-title: "Intrusive Surveillance"
-categories: Tyranny
-tags: [bitcoin, self-custody, tyranny]
+title: "Dice Rolls"
+categories: Backups
+tags: [bitcoin, self-custody, backups]
 author:
   - econoalchemist
 ---
+## Web Article: [Dice Rolls Guide]()
+### GitHub Repo: [Dice Rolls Repo]()
