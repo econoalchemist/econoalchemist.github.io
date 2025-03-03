@@ -11,6 +11,8 @@ Payment Code: `PM8TJK7rnkDXabzmo4ZyxX49JxdLWhbFANDr4eBCwk1shDEs1qDysW5hFCFr6hsch
 
 <p align="center">
 <img src="/assets/ubiquitousskirt29-paynym.png">
+</p>
+<p align="center">
 <img src="/assets/ubiquitousskirt29-QR.png">
 </p>
 
